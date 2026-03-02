@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm Daryl 👋</h1>
 
 <p align="center">
-Talent Acquisition Leader | SaaS Scale-Up Builder | Ex-British Army Engineer
+Talent Acquisition Leader | Tech Startup & Scale-Up Builder
 </p>
 
 ---
@@ -18,18 +18,13 @@ Talent Acquisition Leader | SaaS Scale-Up Builder | Ex-British Army Engineer
 
 I build companies through people.
 
-Over the past decade, I’ve specialised in scaling high-growth SaaS and technology organisations across Europe and globally. My focus sits at the intersection of:
+Over the past decade, I’ve specialised in scaling high-growth SaaS and technology organisations globally. My focus sits at the intersection of:
 
 - 🚀 Hypergrowth hiring
 - 🧩 Organisational design
 - 🌍 Global talent strategy
 - ⚙️ Tech & Product scaling
 - 🤝 Leadership partnership
-
-Before Talent Acquisition, I served over 6 years in the **British Army** as a Technical Engineer working alongside Communications and Cyber/IT specialists.
-
-That foundation still shapes how I operate today:
-**structured thinking, ownership, and mission-first execution.**
 
 ---
 
@@ -48,7 +43,6 @@ That foundation still shapes how I operate today:
 
 - AI & Talent Intelligence
 - Future of Work
-- Web3 / Tokenised Incentives
 - Health & Performance Tech
 - People Ops Automation
 - Startup advisory & mentoring
@@ -56,31 +50,20 @@ That foundation still shapes how I operate today:
 ---
 
 ## 🛠️ Tech & Tools I Work With
-ATS: Greenhouse | Ashby | Lever | Workday
-Data: Notion | Looker | Sheets | Analytics
-Automation: Zapier | APIs | AI tooling
-Collaboration: Slack | Jira | Confluence
-Hiring: Global Remote & Distributed Teams
+ATS: TeamTailor | Greenhouse | Lever | Workable
+Automation: Zapier | Relay.app | Make.com | APIs | AI tooling
 
 
 ---
 
 ## 📈 Career Snapshot
 
-- 10+ years in Talent & Recruitment
-- Led global TA functions
-- Scaled multiple venture-backed SaaS companies
+- 10+ years in Talent & People
+- Led global TA & People functions
+- Scaled multiple venture-backed tech companies
 - Experience across FTSE & Defence environments
-- Built hiring capability from 0 → scale
+- Built hiring capability from 0 → Scale
 
----
-
-## 🏉 Outside Work
-
-- Rugby player
-- Fitness & performance focused
-- Builder mindset
-- Always learning
 
 ---
 
